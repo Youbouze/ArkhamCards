@@ -7769,7 +7769,7 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Ancient One?"
-msgstr "Grand Ancien?"
+msgstr "Grand Ancien ?"
 
 msgctxt "trait"
 msgid "Bad dog"
@@ -7781,7 +7781,7 @@ msgstr "Bazar"
 
 msgctxt "trait"
 msgid "Blessed?"
-msgstr ""
+msgstr "Béni ?"
 
 msgctxt "trait"
 msgid "Bokor"
@@ -7805,7 +7805,7 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Castle"
-msgstr ""
+msgstr "Chateau"
 
 msgctxt "trait"
 msgid "Chair"
@@ -7813,7 +7813,7 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Chess"
-msgstr ""
+msgstr "Echecs"
 
 msgctxt "trait"
 msgid "Classy"
@@ -7829,7 +7829,7 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Corpse"
-msgstr ""
+msgstr "Corps"
 
 msgctxt "trait"
 msgid "Corruption"
@@ -7837,11 +7837,11 @@ msgstr "Corruption"
 
 msgctxt "trait"
 msgid "Darkness"
-msgstr ""
+msgstr "Ténèbres"
 
 msgctxt "trait"
 msgid "Device"
-msgstr ""
+msgstr "Appareil"
 
 msgctxt "trait"
 msgid "Downtown"
@@ -7849,11 +7849,11 @@ msgstr "Centre-ville"
 
 msgctxt "trait"
 msgid "Enigma"
-msgstr ""
+msgstr "Enigme"
 
 msgctxt "trait"
 msgid "Entrance"
-msgstr ""
+msgstr "Entrée"
 
 msgctxt "trait"
 msgid "Fellow Dogs"
@@ -7873,7 +7873,7 @@ msgstr "Hanté"
 
 msgctxt "trait"
 msgid "Havana"
-msgstr ""
+msgstr "La Havanne"
 
 msgctxt "trait"
 msgid "Human"
@@ -7917,11 +7917,11 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Madness?"
-msgstr "Folie?"
+msgstr "Folie ?"
 
 msgctxt "trait"
 msgid "Marrakesh"
-msgstr ""
+msgstr "Marrakesh"
 
 msgctxt "trait"
 msgid "Medical"
@@ -7929,11 +7929,11 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Music"
-msgstr ""
+msgstr "Musique"
 
 msgctxt "trait"
 msgid "Musician"
-msgstr ""
+msgstr "Musicien"
 
 msgctxt "trait"
 msgid "Northside"
@@ -8013,7 +8013,7 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Soldier"
-msgstr ""
+msgstr "Soldat"
 
 msgctxt "trait"
 msgid "Stable"
@@ -8021,11 +8021,11 @@ msgstr "Stable"
 
 msgctxt "trait"
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 msgctxt "trait"
 msgid "Table"
-msgstr ""
+msgstr "Table"
 
 msgctxt "trait"
 msgid "Tatterdemalion"
@@ -8037,11 +8037,11 @@ msgstr ""
 
 msgctxt "trait"
 msgid "Tower"
-msgstr ""
+msgstr "Tour"
 
 msgctxt "trait"
 msgid "Traitor"
-msgstr ""
+msgstr "Traître"
 
 msgctxt "trait"
 msgid "Tulgey Wood"
